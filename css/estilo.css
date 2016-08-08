@@ -1,0 +1,10 @@
+.row:not(.ninguno){
+	background-color: lightblue;
+	border-bottom: orange 2px solid;
+	border-top: white 2px solid;
+	
+}
+.ninguno {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
